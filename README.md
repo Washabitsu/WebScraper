@@ -1,0 +1,1 @@
+This is an ultra basic webscraper used to scrap possible usernames(Employees) and possible passwords(Departments) in the site and then bruteforcing the admin.php, which does not exist in the repository, with all the possible combinations of the emloyees and the departments

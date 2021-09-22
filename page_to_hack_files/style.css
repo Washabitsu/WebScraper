@@ -1,0 +1,11 @@
+* {
+    font-family: sans-serif;
+}
+
+table, th, td {
+    border: 2px solid black;
+    background-clor:lightblue;
+    color: #123456;
+}
+
+
